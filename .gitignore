@@ -1,0 +1,22 @@
+# Ignore compiled AppleScript files
+# *.scptd/
+*.scpt
+
+# Ignore files created by AppleScript editor
+*.sdef
+*.sdp
+*.applescriptCache
+*.applescriptd
+
+# Ignore temporary files
+*~.txt
+*~.csv
+*.bak
+
+# Ignore build output
+build/
+
+# Ignore macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
